@@ -1,2 +1,2 @@
-# MTM6201-test
+# mtm6201-test
 My first test demo repo for WDII
